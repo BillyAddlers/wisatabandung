@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+  <background android:drawable="@mipmap/Wisata Bandung_background"/>
+  <foreground android:drawable="@mipmap/Wisata Bandung_foreground"/>
+  <monochrome android:drawable="@mipmap/Wisata Bandung_monochrome"/>
+</adaptive-icon>
